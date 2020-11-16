@@ -1,1 +1,2 @@
-# C-21-Multiple-Rect-Collision
+# collisionAlgorithm
+Algorithm to detect collision between two objects
